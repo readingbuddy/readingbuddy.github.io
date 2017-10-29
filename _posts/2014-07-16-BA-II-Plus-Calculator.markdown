@@ -4,6 +4,7 @@ modal-id: 3
 date: 2014-07-16
 img: circus.png
 icon: circus_icon.png
+launch: ba-ii-plus-calculator
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

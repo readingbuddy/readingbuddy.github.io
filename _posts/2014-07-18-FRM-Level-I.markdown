@@ -4,7 +4,7 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 icon: cabin_icon.png
-launch: frm-level-i
+launch: frm-part-i
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

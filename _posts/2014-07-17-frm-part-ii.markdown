@@ -9,6 +9,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Congratulations on passing FRM Part I! In Part II, we will be learning about Market Risk Measurement and Management, Credit Risk Measurement and Management, Operational and Integrated Risk Management, and Risk Management and Investment Management. You are well on your way to earn the FRM certification. Keep going!
 
 ---

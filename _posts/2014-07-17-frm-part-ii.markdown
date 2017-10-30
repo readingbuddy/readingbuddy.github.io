@@ -4,7 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 icon: cake_icon.png
-launch: frm_part_ii
+launch: frm-part-ii
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

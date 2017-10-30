@@ -5,6 +5,8 @@ date: 2017-01-01
 img: cabin.png
 icon: cabin_icon.png
 launch: frm-part-i
+button: Launch
+buttonpic: fa fa-rocket
 alt: image-alt
 project-date: January 2017
 client: Start Bootstrap

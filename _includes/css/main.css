@@ -403,9 +403,6 @@ footer .footer-below {
     padding: 25px 0;
     background-color: #{{ site.color.secondary-dark }};
 }
-sitemap {
-    background-color: #fff;
-}
 
 .btn-social {
     display: inline-block;

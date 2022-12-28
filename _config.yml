@@ -1,7 +1,7 @@
 # Site settings
-title: FRM Exam Academy
+title: STORY TIME with Reading Buddy
 email: your-email@domain.com
-url: https:/jingwun.github.io
+url: https:/readingbuddy.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Your Guide to Passing FRM Exam"
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: FRM Exam Academy
+  copyright: Story Time with Reading Buddy
   location: Location
   social: Around the Web
   credits: Credits

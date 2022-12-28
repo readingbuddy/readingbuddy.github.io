@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-title: Babes in the Woods
+title: Babes in the Wood
 img: babes-in-the-woods.png
 icon: babes-in-the-woods_icon.png
 launch: subscribe

@@ -4,7 +4,7 @@ modal-id: 1
 date: 2017-01-01
 img: cabin.png
 icon: cabin_icon.png
-launch: frm-part-i23
+launch: frm-part-i
 button: Launch
 buttonpic: fa fa-rocket
 alt: image-alt

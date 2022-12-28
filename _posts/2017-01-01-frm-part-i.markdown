@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-01-01
+title: An Exciting New Year's Day in Jungletown
 img: cabin.png
 icon: cabin_icon.png
 launch: frm-part-i

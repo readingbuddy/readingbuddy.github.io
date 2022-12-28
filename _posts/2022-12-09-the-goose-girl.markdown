@@ -4,7 +4,7 @@ modal-id: 104
 date: 2022-12-09
 title: The Goose Girl
 img: the-goose-girl.png
-icon: the-goose-girl.png
+icon: the-goose-girl_icon.png
 launch: the-goose-girl
 button: Launch
 buttonpic: fa fa-rocket

@@ -2,8 +2,9 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
-icon: construction.png
+title: Babes in the Woods
+img: babes-in-the-woods.png
+icon: babes-in-the-woods_icon.png
 launch: subscribe
 button: Subscribe
 buttonpic: fa fa-envelope-o

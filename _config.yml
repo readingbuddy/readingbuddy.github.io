@@ -47,17 +47,23 @@ social:
     url: https://www.youtube.com/@storytimereadingbuddy
   - title: github
     url: http://github.com/readingbuddy
-  - title: anchor
+  - title: anchorfm
+    url: http://github.com/readingbuddy
+  - title: anchor-fm
     url: http://github.com/readingbuddy
   - title: spotify
     url: http://github.com/readingbuddy
   - title: amazon-music
     url: http://github.com/readingbuddy
+  - title: amazon
+    url: http://github.com/readingbuddy
   - title: apple-podcasts
     url: http://github.com/readingbuddy
-  - title: iheartradio
+  - title: itunes
     url: http://github.com/readingbuddy
-  - title: pocket-casts
+  - title: i-tunes
+    url: http://github.com/readingbuddy
+  - title: i-Tunes
     url: http://github.com/readingbuddy
 
 

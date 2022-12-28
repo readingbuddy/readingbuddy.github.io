@@ -1,0 +1,95 @@
+ <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3>Today's Story:</h3>
+                    <h3>An Exciting New Year's Day in Jungletown</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="/{{ site.baseurl }}" class="btn btn-sm btn-outline">
+                        <i class="fa fa-arrow-circle-left"></i> Prev
+                    </a>
+                    <a href="/{{ site.baseurl }}/the-conflict-of-risk-and-reward" class="btn btn-sm btn-outline">Next
+                        <i class="fa fa-arrow-circle-right"></i>
+                    </a>
+                    <p> </p>
+                </div>
+                <div class="col-lg-10">
+                    <blockquote>
+                        <p>{% include youtube.html id="0dHKPCS9rLI" %}</p>
+                        <p>
+                         If risk is properly dispersed, shocks to the overall economic system will be better absorbed and less likely to create cascading failures that could threaten financial stability.
+                        </p>
+                        <footer><cite title="Alan Greenspan">Alan Greenspan</cite></footer>
+                    </blockquote>
+                    <p>In a world that is increasingly driven by risk management concepts and technologies, we need to make sure we are at least as literate in the language of risk as we are in the language of reward...let's get started.</p>
+                </div>
+                <div class="col-lg-2">
+                     <h6>Table of Content</h6>
+                     <li>
+                        <a href="/{{ site.baseurl }}"><span class="bg-success text-primary">Introduction</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/what-is-risk"><span class="bg-primary text-white">What Is Risk?</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/the-conflict-of-risk-and-reward"><span class="bg-success text-primary">The Conflict of Risk and Reward</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/the-danger-of-names"><span class="bg-success text-primary">The Danger of Names</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/numbers-are-dangerous-too"><span class="bg-success text-primary">Numbers Are Dangerous, Too</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/the-risk-managers-job"><span class="bg-success text-primary">The Risk Manager's Job</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/the-past-the-future-and-the-courses-mission"><span class="bg-success text-primary">The Past, the Future-and This Course's Mission</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/typology-of-risk-exposures"><span class="bg-success text-primary">Typology of Risk Exposures</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/market-risk"><span class="bg-success text-primary">Market Risk</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/credit-risk"><span class="bg-success text-primary">Credit Risk</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/liquidity-risk"><span class="bg-success text-primary">Liquidity Risk</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/operational-risk"><span class="bg-success text-primary">Operational Risk</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/legal-and-regulatory-risk"><span class="bg-success text-primary">Legal and Regulatory Risk</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/business-risk"><span class="bg-success text-primary">Business Risk</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/strategic-risk"><span class="bg-success text-primary">Strategic Risk</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/reputation-risk"><span class="bg-success text-primary">Reputation Risk</span></a>
+                     </li>
+                     <li>
+                        <a href="/{{ site.baseurl }}/systemic-risk"><span class="bg-success text-primary">Systemic Risk</span></a>
+                     </li>
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="/{{ site.baseurl }}" class="btn btn-sm btn-outline">
+                        <i class="fa fa-arrow-circle-left"></i> Prev
+                    </a>
+                    <a href="/{{ site.baseurl }}/the-conflict-of-risk-and-reward" class="btn btn-sm btn-outline">Next
+                        <i class="fa fa-arrow-circle-right"></i>
+                    </a>
+                    <p> </p>
+                </div>
+             </div>
+        </div>
+    </section>

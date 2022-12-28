@@ -12,6 +12,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Hello Friends, Christmas is around the corner! How many Christmas trees do you have in your house? There’s just one in Reading Buddy’s house. But, in today’s story, two Christmas trees are delivered to a boy’s house. What will the boy do with the second Christmas tree? Let Reading Buddy read you this story called Christmas in the Barn.  
+description: Do you like people taking your stuff without asking you first? Reading Buddy really doesn’t like that. Today, Reading Buddy is going to share a story about a little girl who uses others’ properties without permission. It turns out those items belong to three bears! What will happen next? Let Reading Buddy read you this story called Goldilocks and the Three Bears.  
 
 ---

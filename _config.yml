@@ -48,25 +48,9 @@ social:
   - title: github
     url: http://github.com/readingbuddy
   - title: spotify
-    url: http://github.com/readingbuddy
-  - title: podcast
-    url: http://github.com/readingbuddy
-  - title: radio
-    url: http://github.com/readingbuddy
+    url: https://open.spotify.com/show/0gQJyZwpa1wbVRQ0RcZwdO?si=7937c39046104908
   - title: music
-    url: http://github.com/readingbuddy
-  - title: itunes
-    url: http://github.com/readingbuddy
-  - title: i-tunes
-    url: http://github.com/readingbuddy
-  - title: i-Tunes
-    url: http://github.com/readingbuddy
-
-
-
-
-
-
+    url: https://anchor.fm/readingbuddy
 
 # Postal address (add as many lines as necessary)
 address:

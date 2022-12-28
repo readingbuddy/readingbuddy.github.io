@@ -5,9 +5,9 @@ date: 2014-07-17
 title: Babes in the Wood
 img: babes-in-the-woods.png
 icon: babes-in-the-woods_icon.png
-launch: subscribe
-button: Subscribe
-buttonpic: fa fa-envelope-o
+launch: babes-in-the-wood
+button: Launch
+buttonpic: fa fa-rocket
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

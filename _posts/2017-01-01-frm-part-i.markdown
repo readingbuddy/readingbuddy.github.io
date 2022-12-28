@@ -4,13 +4,13 @@ modal-id: 1
 date: 2017-01-01
 img: cabin.png
 icon: cabin_icon.png
-launch: frm-part-i
+launch: an-exciting-new-year's-day-in-jungletown
 button: Launch
 buttonpic: fa fa-rocket
 alt: image-alt
 project-date: January 2017
 client: Start Bootstrap
 category: Web Development
-description: Great job on choosing GARP Financial Risk Manager (FRM) designation as you advance your career. In Part I, we will be learning Foundations of Risk Management, Quantitative Analysis, Financial Markets and Products, and Valuation and Risk Models. Excited? Let's get started!
+description: How did you celebrate the first day of the new year yesterday? Reading Buddy celebrated by reflecting on what I learned in 2022. In today’s story, Jungle animals celebrate the new year by doing fun sports, but a squirrel gets injured. What will happen next? Let Reading Buddy read you this story adapted from An Exciting New Year’s Day in Jungletown, written by Beulah Mary Crocker.
 
 ---

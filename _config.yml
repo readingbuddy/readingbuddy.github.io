@@ -1,11 +1,11 @@
 # Site settings
 title: STORY TIME
-email: your-email@domain.com
+email: storytimereadingbuddy@gmail.com
 url: https:/readingbuddy.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "One Free Audiobook for Kids Every Monday"
-meta_author: LastName FirstName
+description: "One Free Audiobook for Kids & Family Every Monday"
+keywords: "audiobook, kids, podcast, youtube, story, stories"
+skills: "One Free Audiobook for Kids & Family Every Monday"
+meta_author: Buddy Reading
 
 # Google webmaster tools
 google_verify:

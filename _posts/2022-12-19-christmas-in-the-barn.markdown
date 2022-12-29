@@ -5,6 +5,7 @@ date: 2022-12-19
 title: Christmas in the Barn
 img: christmas-in-the-barn.png
 icon: christmas-in-the-barn_icon.png
+pdf: christmas-in-the-barn.pdf
 launch: christmas-in-the-barn
 button: Launch
 buttonpic: fa fa-rocket

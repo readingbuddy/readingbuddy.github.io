@@ -5,6 +5,7 @@ date: 2022-11-21
 title: The Hare and the Tortoise
 img: the-hare-and-the-tortoise.png
 icon: the-hare-and-the-tortoise_icon.png
+pdf: the-hare-and-the-tortoise.pdf
 launch: the-hare-and-the-tortoise
 button: Launch
 buttonpic: fa fa-rocket

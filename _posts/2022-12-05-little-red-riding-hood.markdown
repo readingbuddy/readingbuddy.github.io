@@ -5,6 +5,7 @@ date: 2022-12-05
 title: Little Red Riding Hood
 img: little-red-riding-hood.png
 icon: little-red-riding-hood_icon.png
+pdf: little-red-riding-hood.pdf
 launch: little-red-riding-hood
 button: Launch
 buttonpic: fa fa-rocket

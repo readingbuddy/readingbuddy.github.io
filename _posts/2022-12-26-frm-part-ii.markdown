@@ -5,7 +5,7 @@ date: 2022-12-26
 title: Babes in the Wood
 img: babes-in-the-woods.png
 icon: babes-in-the-woods_icon.png
-coloring: babes-in-the-wood.pdf
+pdf: babes-in-the-wood.pdf
 launch: babes-in-the-wood
 button: Launch
 buttonpic: fa fa-rocket

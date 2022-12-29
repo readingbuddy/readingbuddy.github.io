@@ -5,6 +5,7 @@ date: 2022-11-28
 title: The Tale of Peter Rabbit
 img: the-tale-of-peter-rabbit.png
 icon: the-tale-of-peter-rabbit_icon.png
+pdf: the-tale-of-peter-rabbit.pdf
 launch: the-tale-of-peter-rabbit
 button: Launch
 buttonpic: fa fa-rocket

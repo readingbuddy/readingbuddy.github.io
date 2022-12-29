@@ -5,6 +5,7 @@ date: 2022-12-12
 title: Goldilocks and the Three Bears
 img: goldilocks-and-the-three-bears.png
 icon: goldilocks-and-the-three-bears_icon.png
+pdf: goldilocks-and-the-three-bears.pdf
 launch: goldilocks-and-the-three-bears
 button: Launch
 buttonpic: fa fa-rocket

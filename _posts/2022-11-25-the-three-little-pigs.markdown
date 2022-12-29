@@ -5,6 +5,7 @@ date: 2022-11-25
 title: The Three Little Pigs
 img: the-three-little-pigs.png
 icon: the-three-little-pigs_icon.png
+pdf: the-three-little-pigs.pdf
 launch: the-three-little-pigs
 button: Launch
 buttonpic: fa fa-rocket

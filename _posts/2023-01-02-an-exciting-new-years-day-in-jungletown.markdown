@@ -3,8 +3,8 @@ layout: default
 modal-id: 100
 date: 2023-01-02
 title: An Exciting New Year's Day in Jungletown
-img: cabin.png
-icon: cabin_icon.png
+img: an-exciting-new-years-day-in-jungletown.png
+icon: an-exciting-new-years-day-in-jungletown_icon.png
 pdf: an-exciting-new-years-day-in-jungletown.pdf
 launch: an-exciting-new-years-day-in-jungletown
 button: Launch
